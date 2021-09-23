@@ -1,4 +1,6 @@
-### Hi there 👋
+### Ooh bold text
+
+Yeah all my repos are private because trust me you don't want to see this garbage code.
 
 <!--
 **russellfincher/russellfincher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
