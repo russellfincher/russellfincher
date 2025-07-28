@@ -1,6 +1,6 @@
 
 
-Yeah all my repos are private because trust me you don't want to see this garbage code.
+Yeah all my repos are private because trust me you don't want to see this garbage code. 🗑️
 
 <!--
 ### Ooh bold text
